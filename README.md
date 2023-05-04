@@ -1,1 +1,1 @@
-# Dickmilk
+# プログラムはsrcの中のcppファイル
